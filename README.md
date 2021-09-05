@@ -50,7 +50,7 @@ In order to view this project locally, you need to make sure you clone this repo
 - Clone the repository
 
   ```sh
-  git clone https://github.com/tlgadrkn/rest-countries-react.git
+  git clone https://github.com/purushottam/rest-countries-react.git
   ```
 
 - Navigate to repository folder
